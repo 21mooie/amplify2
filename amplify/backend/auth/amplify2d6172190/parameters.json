@@ -1,6 +1,6 @@
 {
     "identityPoolName": "amplify2d6172190_identitypool_d6172190",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "lambdaLogPolicy": "amplif_d6172190_lambda_log_policy",
     "openIdLambdaRoleName": "amplif_d6172190_openid_lambda_role",
     "openIdRolePolicy": "amplif_d6172190_openid_pass_role_policy",

@@ -142,10 +142,10 @@ Parameters:
   hostedUIProviderMeta:
     Type: String
             
-  hostedUIProviderCreds:
+  oAuthMetadata:
     Type: String
             
-  oAuthMetadata:
+  hostedUIProviderCreds:
     Type: String
           
 Conditions:
