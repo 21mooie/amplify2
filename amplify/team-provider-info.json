@@ -9,6 +9,13 @@
             "UnauthRoleName": "amplify2-dev-20190525002231-unauthRole",
             "StackName": "amplify2-dev-20190525002231",
             "StackId": "arn:aws:cloudformation:us-east-1:533107625001:stack/amplify2-dev-20190525002231/b70b7af0-7ea4-11e9-baf2-12ece74fd46e"
+        },
+        "categories": {
+            "auth": {
+                "amplify2d6172190": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"292337691642681\",\"client_secret\":\"7c98d308ff4536b37e217abcc50b862b\"},{\"ProviderName\":\"Google\",\"client_id\":\"554730077991-f6k5mgv7au4h8163dlvteap9tivsg4dq.apps.googleusercontent.com\",\"client_secret\":\"fxRMYZpVRsdgjz4sd8z53lbD\"}]"
+                }
+            }
         }
     }
 }
